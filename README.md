@@ -73,9 +73,15 @@ I'm Daniel Serna, a passionate software developer. 🚀
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielmserna&theme=default&background=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak (Claro)](http://github-readme-streak-stats.herokuapp.com?user=danielmserna&theme=default&background=FFFFFF)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmserna&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak (Oscuro)](http://github-readme-streak-stats.herokuapp.com?user=danielmserna&theme=highcontrast&background=000000)](https://git.io/streak-stats)
+
+---
+
+[![Top Langs (Claro)](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmserna&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs (Oscuro)](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmserna&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
